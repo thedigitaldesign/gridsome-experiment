@@ -16,3 +16,13 @@ collections:
       - {label: "Excerpt", name: "excerpt", widget: "string"}
       - {label: "Publish Date", name: "date", widget: "date"}
       - {label: "Body", name: "body", widget: "markdown"}
+  - name: "marketing"
+    label: "Marketing"
+    folder: "marketing"
+    create: true
+    slug: "{{slug}}"
+    fields:
+      - {label: "Title", name: "title", widget: "string"}
+      - {label: "Hero Image", name: "hero-image", widget: "image"}
+      - {label: "Body", name: "body", widget: "markdown"}
+  
