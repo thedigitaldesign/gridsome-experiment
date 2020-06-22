@@ -2,8 +2,8 @@
   <BlogLayout>
     <div>
       <h1>{{$page.post.title}}</h1>
-      <img :src="$page.post.featuredImage" alt="blog">
-      <div v-html="$page.post.body"></div>
+      <img :src="$page.post.featuredImage" alt="blog" />
+      <div v-html="$page.post.body" />
     </div>
   </BlogLayout>
 </template>
