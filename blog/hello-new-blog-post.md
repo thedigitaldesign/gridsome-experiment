@@ -3,7 +3,7 @@ title: Hello New Blog Post
 excerpt: this is a blog post to see the bloggyness of the blog
 featuredImage: /uploads/sub-buzz-20133-1506943299-1.jpg
 date: 2020-06-22T00:20:11.795Z
-content: >-
+body: >-
   Travel time to the nearest starbase? That might've been one of the shortest
   assignments in the history of Starfleet. Talk about going nowhere fast. They
   were just sucked into space. Why don't we just give everybody a promotion and
